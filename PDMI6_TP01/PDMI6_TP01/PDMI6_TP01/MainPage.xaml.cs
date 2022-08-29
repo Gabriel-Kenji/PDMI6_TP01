@@ -20,7 +20,7 @@ namespace PDMI6_TP01
             var ids = id.Text;
             var pass = senha.Text;
 
-            if(ids == "admin" && pass == "@dmin")
+            if(ids == "admin" && pass == "senha@dmin")
                 DisplayAlert("LOGADO COM SUCESSO", "", "OK");
             else
                 DisplayAlert("LOGIN NÃO AUTORIZADO", "", "OK");
