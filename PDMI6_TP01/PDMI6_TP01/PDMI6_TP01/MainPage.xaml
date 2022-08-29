@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDMI6_TP01.MainPage">
+
+    <StackLayout Margin="20,100,20,20">
+
+        <Label Text="ID" 
+               FontSize="20"
+               Margin="5"/>
+        <Entry x:Name="id"
+               Placeholder="Digite o ID"
+               TextChanged="OnEntryTextChanged" 
+               VerticalOptions="Center"/>
+        <Label Text="SENHA" 
+               FontSize="20"
+               Margin="5"/>
+        <Entry x:Name="senha"
+               Placeholder="Digite a SENHA"
+               MaxLength="15"
+               IsSpellCheckEnabled="false"
+               IsTextPredictionEnabled="false"
+               IsPassword="true" 
+               ClearButtonVisibility="WhileEditing"
+               VerticalOptions="Center"/>
+
+        <FlexLayout AlignItems="Center"
+                    JustifyContent="SpaceEvenly">
+            <Button Text="LOGIN"
+                Clicked="OnButtonClicked"
+                TextColor="White"
+                BackgroundColor="Green"
+                CornerRadius="5"
+                WidthRequest="150"
+                HeightRequest="50" 
+                Margin="0 , 20, 0, 0"
+                />
+
+            <Button Text="LIMPAR"
+                Clicked="Limpa"
+                TextColor="White"
+                BackgroundColor="Red"
+                CornerRadius="5"
+                WidthRequest="150"
+                HeightRequest="50" 
+                Margin="0 , 20, 0, 0"
+                />
+        </FlexLayout>
+        <Button Text="Creditos"
+                Clicked="Contatos"
+                TextColor="White"
+                BackgroundColor="Blue"
+                CornerRadius="5"
+                WidthRequest="150"
+                HeightRequest="75" 
+                VerticalOptions="EndAndExpand"/>
+
+
+    </StackLayout>
+
+</ContentPage>

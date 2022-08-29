@@ -1,0 +1,16 @@
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\bin\Debug\netstandard2.0\PDMI6_TP01.deps.json
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\bin\Debug\netstandard2.0\PDMI6_TP01.dll
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\bin\Debug\netstandard2.0\PDMI6_TP01.pdb
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.AssemblyInfo.cs
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.dll
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\refint\PDMI6_TP01.dll
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\PDMI6_TP01.pdb
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\ref\PDMI6_TP01.dll
+C:\Users\gabri\Desktop\FACUL\PDM\PDMI6_TP01\PDMI6_TP01\PDMI6_TP01\obj\Debug\netstandard2.0\Page1.xaml.g.cs

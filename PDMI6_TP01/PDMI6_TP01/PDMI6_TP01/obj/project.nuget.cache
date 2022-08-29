@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbDmUaLeSXJwZVqTlVeWHRLX/PQjInlyY8fGkYmKLHowaa/ZEDdMCdo/JoDyQhxlOov9oP/i27J27+I7ae/TTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\FACUL\\PDM\\PDMI6_TP01\\PDMI6_TP01\\PDMI6_TP01\\PDMI6_TP01.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\gabri\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
